@@ -1,0 +1,12 @@
+Computer Networking Labs
+Networking laboratories completed in virtual machine environments.
+
+Skills Demonstrated:
+
+TCP/IP
+DHCP
+DNS
+ARP
+Wireshark
+Packet Analysis
+Network Troubleshooting
